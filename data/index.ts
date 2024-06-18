@@ -180,7 +180,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Develope Personal Projects",
+    title: "Develop Personal Projects",
     desc: "Designed and developed web apps using React & Next.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
